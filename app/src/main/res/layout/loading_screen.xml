@@ -9,6 +9,7 @@
         android:id="@+id/logo"
         android:layout_width="333dp"
         android:layout_height="197dp"
+        android:contentDescription="@string/app_logo"
         android:src="@drawable/main_logo_"  />
 
 </RelativeLayout>

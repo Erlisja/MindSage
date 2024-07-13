@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
+    android:background="@color/white"
     android:padding="16dp">
 
     <ImageView
@@ -14,6 +15,7 @@
         android:src="@drawable/main_logo_" />
 
     <LinearLayout
+        style="?android:attr/buttonBarStyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="200dp"
@@ -22,21 +24,24 @@
 
         <Button
             android:id="@+id/loginButton"
+         style="@android:style/Animation.Dialog"
             android:layout_width="0dp"
             android:layout_height="38dp"
             android:layout_marginEnd="8dp"
             android:layout_weight="1"
             android:background="#917EB0"
-            android:text="Login" />
+            android:textColor="@color/white"
+            android:text="@string/Login_Button" />
 
         <Button
             android:id="@+id/signupButton"
+            style="@android:style/Animation.Dialog"
             android:layout_width="0dp"
             android:layout_height="38dp"
             android:layout_marginStart="8dp"
             android:layout_weight="1"
             android:background="#E5E3EA"
-            android:text="Sign Up"
+            android:text="@string/sign_up"
             android:textColor="@color/black" />
     </LinearLayout>
 </LinearLayout>
