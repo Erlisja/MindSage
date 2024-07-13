@@ -25,6 +25,9 @@
         <activity
             android:name=".FirstPage"
             android:exported="true"/>
+        <activity
+            android:name=".ChatPage"
+            android:exported="true"/>
     </application>
 
 </manifest>
