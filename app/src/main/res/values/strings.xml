@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MindSage</string>
+    <string name="app_logo">app logo</string>
+    <string name="Login_Button">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="Logo_Description">Main Logo of the app</string>
 </resources>
