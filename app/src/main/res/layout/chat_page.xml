@@ -50,7 +50,6 @@
         android:layout_below="@id/header"
         android:layout_above="@id/input_layout"
         android:padding="16dp"
-
         android:background="#546479DC" />
 
 
@@ -71,7 +70,6 @@
             android:hint="@string/How_can_i_assist_you_today"
             android:importantForAutofill="no"
             android:padding="8dp"
-
             android:layout_marginEnd="8dp"
             android:background="@drawable/edittext_border"
             android:inputType="text"/>
