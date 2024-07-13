@@ -4,4 +4,8 @@
     <string name="Login_Button">Login</string>
     <string name="sign_up">Sign Up</string>
     <string name="Logo_Description">Main Logo of the app</string>
+    <string name="How_can_i_assist_you_today">How can I assist you today?</string>
+    <string name="send_message_button">Send message button</string>
+    <string name="User_profile_icon">profile icon</string>
+    <string name="menu_icon">menu icon</string>
 </resources>
