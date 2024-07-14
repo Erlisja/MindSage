@@ -78,7 +78,7 @@ We have several exciting features planned for future releases of Mind Sage:
 Here's a video / GIF that demos all of the app's implemented features:
 <img src='https://www.dropbox.com/scl/fi/9qjdjzaxlobddkedtt1hm/Demo.gif?rlkey=1norwun62jh8mq7v1sp6uflu0&st=bq1t9ic2&dl=0.gif' title = 'Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+
 ![Demo1](https://github.com/user-attachments/assets/d5b313c4-aa9a-4d52-949d-68cbeb13bcba)
 
 
