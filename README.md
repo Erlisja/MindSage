@@ -67,11 +67,11 @@ The chatbot is fine-tuned using prompt engineering techniques to ensure response
 We have several exciting features planned for future releases of Mind Sage:
 
 
-## Login and Sign-Up Pages:
-Implementing user authentication to provide a personalized experience.
-## Menu Bar: Adding a menu bar where users can find:
-1. Emergency Contacts: Quick access to important emergency contacts.
-2. Saved Daily Affirmations: Allowing users to save and access daily affirmations.
+1. Login and Sign-Up Pages:
+  -Implementing user authentication to provide a personalized experience.
+2. Menu Bar: Adding a menu bar where users can find:
+3. Emergency Contacts: Quick access to important emergency contacts.
+4. Saved Daily Affirmations: Allowing users to save and access daily affirmations.
 
 ## Video Demo
 
@@ -79,8 +79,8 @@ Here's a video / GIF that demos all of the app's implemented features:
 <img src='https://www.dropbox.com/scl/fi/9qjdjzaxlobddkedtt1hm/Demo.gif?rlkey=1norwun62jh8mq7v1sp6uflu0&st=bq1t9ic2&dl=0.gif' title = 'Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
+![Demo1](https://github.com/user-attachments/assets/d5b313c4-aa9a-4d52-949d-68cbeb13bcba)
 
-![Demo](https://github.com/user-attachments/assets/c5989384-3e50-4daa-b3c9-dfaed7ea9b69)
 
 
 
