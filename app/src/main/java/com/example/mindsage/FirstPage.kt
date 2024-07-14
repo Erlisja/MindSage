@@ -4,7 +4,6 @@ package com.example.mindsage
 
 import android.content.Intent
 import android.os.Bundle
-import android.os.Handler
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 
@@ -18,7 +17,7 @@ class FirstPage: AppCompatActivity() {
 
         button.setOnClickListener {
 
-                val intent = Intent(this, ChatPage::class.java)
+                val intent = Intent(this, ChatActivity::class.java)
                 startActivity(intent)
                 finish()
 

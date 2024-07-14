@@ -4,6 +4,8 @@
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
+        android:usesCleartextTraffic="true"
+        android:networkSecurityConfig="@xml/network_security_configuration"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -27,7 +29,7 @@
             android:name=".FirstPage"
             android:exported="true"/>
         <activity
-            android:name=".ChatPage"
+            android:name=".ChatActivity"
             android:exported="true"/>
     </application>
 
