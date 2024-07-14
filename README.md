@@ -24,7 +24,7 @@ Mind Sage is a mental health chatbot application designed to provide users with 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Erlisja/MindSage.git
-   cd mind-sage
+   cd MindSage
 
 ## Open in Android Studio
 
@@ -47,9 +47,6 @@ Mind Sage is a mental health chatbot application designed to provide users with 
 ### Permissions
 
 Ensure the following permissions are added to your `AndroidManifest.xml`:
-
-```xml
-<uses-permission android:name="android.permission.INTERNET"/>
 
 ## Running the Application
 Open Android Studio and connect your Android device or start an emulator.
